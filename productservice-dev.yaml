@@ -14,9 +14,9 @@ spring:
                 
 # Test Details for Development Environment
 test:
-  details: Employee service details for development environment [From GitHub]
-  engineer: John Doe
+  details: Product service details  [From GitHub]
+  engineer: Chandni
   department: Development Testing
   engineerContact:
-    email: testengineer.dev@example.com
+    email: chandni.dev@example.com
     phone: 123-456-7890                
