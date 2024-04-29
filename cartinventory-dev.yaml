@@ -15,9 +15,9 @@ spring:
       
 # Test Details for Development Environment
 test:
-  details: Department service details for development environment [From GitHub]
-  engineer: John Doe01
-  department: Development Testing [Dept service]
+  details: CartInventory details for dev environment [From GitHub]
+  engineer: Chandni
+  department: Development Testing 
   engineerContact:
-    email: testengineer01.dev@example.com
-    phone: 111-456-7890       
+    email: chandni.dev@example.com
+    phone: 222-343-7890       
